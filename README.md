@@ -1,4 +1,3 @@
-# Database-Administration
 # A simple program that allows an administrator to manage his database.
 # Includes:
 # 1) An authentication function
